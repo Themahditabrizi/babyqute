@@ -1,0 +1,52 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    font-family: 'Nunito', sans-serif;
+
+}
+body
+{
+    font-family: 'Nunito', sans-serif;
+
+}
+#nav-bar{
+    margin-bottom: 7%;
+    background-color: black;
+}
+
+#features{
+    background-color: #fdebee;
+    padding: 7% 15%;
+}
+#features1{
+        background-color: #ffffff;
+        padding: 7% 15%;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+h3{
+    font-family: sans-serif;
+    font-weight: 600;
+}
+#idk{
+    color: #8f8f8f;
+}
+.icon{
+    color: #ffadba;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: rgb(255, 209, 209);
+}
+.reviews{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ffadba;
+}
+.carousel-item{
+    padding: 0% 15% ;
+}
